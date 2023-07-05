@@ -1,0 +1,5 @@
+#written by FileProperties
+#Wed Jul 05 15:43:15 CST 2023
+day=5
+year=2023
+month=7

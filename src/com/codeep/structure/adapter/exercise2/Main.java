@@ -1,4 +1,4 @@
-package com.codeep.creation.adapter.exercise2;
+package com.codeep.structure.adapter.exercise2;
 
 import java.io.IOException;
 

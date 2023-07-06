@@ -1,4 +1,4 @@
-package com.codeep.creation.adapter.extension;
+package com.codeep.structure.adapter.extension;
 
 /**
  * @author codeep

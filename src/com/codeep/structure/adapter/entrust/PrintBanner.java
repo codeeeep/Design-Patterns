@@ -1,4 +1,4 @@
-package com.codeep.creation.adapter.entrust;
+package com.codeep.structure.adapter.entrust;
 
 /**
  * @author codeep

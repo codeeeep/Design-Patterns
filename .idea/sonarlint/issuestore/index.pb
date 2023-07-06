@@ -9,8 +9,5 @@ e
 5src/com/codeep/creation/adapter/exercise2/FileIO.java,a\2\a26a3b3aa6b30adc5c0caf52a2b9620cac97754c
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 e
 5src/com/codeep/creation/adapter/exercise2/newfile.txt,8\6\86ca4989ec1fa060f6fdc3ad21754d8f4cdeccf7

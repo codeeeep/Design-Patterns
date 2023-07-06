@@ -1,15 +1,15 @@
-package com.codeep.creation.adapter.extension;
+package com.codeep.structure.adapter.entrust;
 
 /**
  * @author codeep
- * @date 2023/7/4 9:40
+ * @date 2023/7/4 9:59
  * @description:
  */
 public class Banner {
 
     private String string;
 
-    public Banner(String string) {
+    public Banner(String string){
         this.string = string;
     }
 

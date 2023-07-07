@@ -37,6 +37,3 @@ c
 3src/com/codeep/behavior/template/StringDisplay.java,2\f\2fadaa5e0564fa8567d97b04ef0c16090507ea7e
 Z
 *src/com/codeep/behavior/template/Main.java,4\b\4b6dcb0a1a3b04ea99b73aedd741f92efe220bc7
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

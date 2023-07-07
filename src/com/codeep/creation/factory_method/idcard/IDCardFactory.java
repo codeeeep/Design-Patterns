@@ -3,8 +3,7 @@ package com.codeep.creation.factory_method.idcard;
 import com.codeep.creation.factory_method.framework.Factory;
 import com.codeep.creation.factory_method.framework.Product;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author codeep
@@ -13,19 +12,21 @@ import java.util.List;
  */
 public class IDCardFactory extends Factory {
 
-    private List owners = new ArrayList();
+    private Map database = new HashMap(10);
+    private int code = 100;
 
     @Override
-    protected Product createProduct(String owner) {
-        return new IDCard(owner);
+    protected synchronized Product createProduct(String owner) {
+        return new IDCard(owner, code++);
     }
 
     @Override
     protected void registerProduct(Product product) {
-        owners.add(((IDCard) product).getOwner());
+        IDCard card = (IDCard) product;
+        database.put(card.getCode(), card.getOwner());
     }
 
-    public List getOwners(){
-        return owners;
+    public Hashtable getDatabase(){
+        return (Hashtable) database;
     }
 }

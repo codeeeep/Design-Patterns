@@ -21,9 +21,6 @@ e
 5src/com/codeep/structure/adapter/extension/Print.java,a\4\a4ec35fd2fc1e4d246fb3e56a3c6bf667393c728
 c
 3src/com/codeep/structure/adapter/exercise2/file.txt,9\1\9102d271961eaafc49414d340d15f9d925ea8655
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 Z
 *src/com/codeep/behavior/template/Main.java,4\b\4b6dcb0a1a3b04ea99b73aedd741f92efe220bc7
 c

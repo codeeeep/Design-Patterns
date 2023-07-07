@@ -10,23 +10,29 @@ import com.codeep.creation.factory_method.framework.Product;
 public class IDCard extends Product {
 
     private String owner;
+    private int code;
 
     /**
      * 注意这里没有使用 public 来修饰构造方法，具体作用稍后再看 TODO
      * @param owner
      */
-    IDCard(String owner) {
-        System.out.println("制作" + owner + "的 ID 卡");
+    IDCard(String owner, int code) {
+        System.out.println("制作 " + owner + "(" + code + ")" + " 的 ID 卡");
+        this.code = code;
         this.owner = owner;
     }
 
     @Override
     public void use() {
-        System.out.println("使用" + owner + "的 ID 卡");
+        System.out.println("使用 " + owner + "(" + code + ")" + " 的 ID 卡");
     }
 
     public String getOwner() {
         return owner;
+    }
+
+    public int getCode(){
+        return code;
     }
 
 }

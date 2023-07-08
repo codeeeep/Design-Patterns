@@ -20,7 +20,7 @@ public class Main {
         Product card2 = factory.create("Jason");
         Product card3 = factory.create("Curry");
         card1.use();
-        card1.use();
+        card2.use();
         card3.use();
     }
 

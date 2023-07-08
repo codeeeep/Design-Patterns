@@ -37,3 +37,12 @@ c
 3src/com/codeep/behavior/template/StringDisplay.java,2\f\2fadaa5e0564fa8567d97b04ef0c16090507ea7e
 Z
 *src/com/codeep/behavior/template/Main.java,4\b\4b6dcb0a1a3b04ea99b73aedd741f92efe220bc7
+_
+/src/com/codeep/behavior/iterator/Aggregate.java,5\1\51bd2f8daadc40bf0957f24ef72e0b62b162e962
+_
+/src/com/codeep/behavior/iterator/BookShelf.java,d\5\d54f3e75bb8ad0aede689018c7109913ce682bda
+g
+7src/com/codeep/behavior/iterator/BookShelfIterator.java,3\c\3c2021a71e9fc1c8e03aec562792ecc051894c7d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

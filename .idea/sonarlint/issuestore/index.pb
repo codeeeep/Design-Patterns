@@ -37,3 +37,12 @@ c
 3src/com/codeep/structure/adapter/entrust/Print.java,4\5\453d20122f5c7486b924298a7001c69732d96a77
 d
 4src/com/codeep/structure/adapter/entrust/Banner.java,e\e\eeabff435f7b3c8505dbbc4b3a5d72bc59bcc1cc
+_
+/src/com/codeep/behavior/iterator/Aggregate.java,5\1\51bd2f8daadc40bf0957f24ef72e0b62b162e962
+_
+/src/com/codeep/behavior/iterator/BookShelf.java,d\5\d54f3e75bb8ad0aede689018c7109913ce682bda
+g
+7src/com/codeep/behavior/iterator/BookShelfIterator.java,3\c\3c2021a71e9fc1c8e03aec562792ecc051894c7d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

@@ -46,3 +46,11 @@ g
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+m
+=src/com/codeep/creation/factory_method/framework/Product.java,e\c\ecdcdd5b901dca8f8c3483eef3348a5262816177
+m
+=src/com/codeep/creation/factory_method/framework/Factory.java,e\1\e1348f53c40c713a2bbb759c91c234877574680d
+`
+0src/com/codeep/creation/factory_method/Main.java,a\e\ae547305f8f0f55dbdf9964361078a38f694b1d4
+p
+@src/com/codeep/creation/factory_method/idcard/IDCardFactory.java,a\d\ad8af3117a62f96443467c0445dd663683aad789

@@ -46,20 +46,10 @@ g
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-m
-=src/com/codeep/creation/factory_method/framework/Product.java,e\c\ecdcdd5b901dca8f8c3483eef3348a5262816177
-m
-=src/com/codeep/creation/factory_method/framework/Factory.java,e\1\e1348f53c40c713a2bbb759c91c234877574680d
-`
-0src/com/codeep/creation/factory_method/Main.java,a\e\ae547305f8f0f55dbdf9964361078a38f694b1d4
-p
-@src/com/codeep/creation/factory_method/idcard/IDCardFactory.java,a\d\ad8af3117a62f96443467c0445dd663683aad789
 e
 5src/com/codeep/creation/singleton/exercise2/Main.java,1\3\13e08a5aa0af59f3894b25af30f5e9349a6fe9b9
 d
 4src/com/codeep/creation/singleton/execise3/Main.java,9\f\9f1cb5d4eb6c64fbf3618444293137a19e74bc47
-i
-9src/com/codeep/creation/factory_method/idcard/IDCard.java,7\0\70a854c75cb35bf0cf638777c72db675d7953109
 m
 =src/com/codeep/creation/singleton/execise3/SafeSingleton.java,c\6\c67b670035e4992a7f111eca82596d638f89ed20
 e
@@ -70,5 +60,3 @@ g
 7src/com/codeep/creation/singleton/exercise2/Triple.java,0\d\0d890f0a56f0891f8c48bdf3304db03cd47f31d1
 `
 0src/com/codeep/creation/singleton/Singleton.java,c\d\cd713b4aa9935f7a7ba2b46cdb5e5a2a4c4dde23
-[
-+src/com/codeep/creation/singleton/Main.java,d\e\de78b7c73e6d55a94ca299e798a6607385fcda26

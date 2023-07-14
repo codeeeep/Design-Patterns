@@ -1,7 +1,25 @@
-package com.codeep.creation.abstract_factory.factory;/**
- *@author codeep
- *@date 2023/7/13 13:39
- *@description:
+package com.codeep.creation.abstract_factory.factory;
+
+/**
+ * @author codeep
+ * @date 2023/7/13 13:39
+ * @description:
  */
-public class Factory {
+public abstract class Factory {
+
+     public static Factory getFactory(String classname){
+        Factory factory = null;
+        try {
+            factory = (Factory)Class.forName(classname).newInstance();
+        } catch (ClassNotFoundException e) {
+            System.err.println("没有找到 " + classname + "类。");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return factory;
+    }
+    public abstract Link createLink(String caption, String url);
+    public abstract Tray createTray(String caption);
+    public abstract Page createPage(String title, String author);
+
 }

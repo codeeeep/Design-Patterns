@@ -21,12 +21,8 @@ c
 3src/com/codeep/structure/adapter/entrust/Print.java,4\5\453d20122f5c7486b924298a7001c69732d96a77
 i
 9src/com/codeep/structure/adapter/entrust/PrintBanner.java,6\d\6d0efba004ee259bf8811c119a06c0c9f35559cc
-d
-4src/com/codeep/structure/adapter/exercise2/Main.java,6\6\669be7b6d165b03d6c2052b84ba487b8e7a987b5
 e
 5src/com/codeep/structure/adapter/extension/Print.java,a\4\a4ec35fd2fc1e4d246fb3e56a3c6bf667393c728
-c
-3src/com/codeep/structure/adapter/exercise2/file.txt,9\1\9102d271961eaafc49414d340d15f9d925ea8655
 b
 2src/com/codeep/structure/adapter/entrust/Main.java,c\8\c89a324d41f0b150cda7b7fdc234305e13ff0fd5
 a

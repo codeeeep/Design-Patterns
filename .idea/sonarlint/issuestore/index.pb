@@ -15,12 +15,8 @@ f
 6src/com/codeep/structure/adapter/extension/Banner.java,5\d\5d76cdf9d1519ebab4aa0ac66ec66fbea5f22885
 n
 >src/com/codeep/structure/adapter/exercise2/FileProperties.java,f\9\f9c21a81fe8e74580ec967265171aa90ce6dac6d
-d
-4src/com/codeep/structure/adapter/exercise2/Main.java,6\6\669be7b6d165b03d6c2052b84ba487b8e7a987b5
 e
 5src/com/codeep/structure/adapter/extension/Print.java,a\4\a4ec35fd2fc1e4d246fb3e56a3c6bf667393c728
-c
-3src/com/codeep/structure/adapter/exercise2/file.txt,9\1\9102d271961eaafc49414d340d15f9d925ea8655
 Z
 *src/com/codeep/behavior/template/Main.java,4\b\4b6dcb0a1a3b04ea99b73aedd741f92efe220bc7
 c

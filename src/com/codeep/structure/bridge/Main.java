@@ -12,10 +12,12 @@ public class Main {
         Display d2 = new CountDisplay(new StringDisplayImpl("Hello, World."));
         CountDisplay d3 = new CountDisplay(new StringDisplayImpl("Hello, NJFU."));
         RandomCountDisplay d4 = new RandomCountDisplay(new StringDisplayImpl("Hello, ByteDance."));
+        CountDisplay d = new CountDisplay(new FileDisplayImpl("src/com/codeep/structure/bridge/start.txt"));
         d1.display();
         d2.display();
         d3.multiDisplay(6);
         d4.randomDisplay(6);
+        d.multiDisplay(3);
     }
 
 }

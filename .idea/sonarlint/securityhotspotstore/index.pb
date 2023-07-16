@@ -5,8 +5,6 @@ h
 8src/com/codeep/behavior/iterator/exercise/Aggregate.java,a\a\aa8d09d5cd8d5cf39891e02eb485b7b7082f2d7e
 c
 3src/com/codeep/behavior/iterator/exercise/Main.java,f\3\f3427af5d4f72011f07a4901428f71e8b7e58ff2
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 d
 4src/com/codeep/structure/adapter/extension/Main.java,1\c\1c4a67b6a309a3e2050b47bfadb128df4104e209
 k

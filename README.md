@@ -1,8 +1,33 @@
-# Design-Patterns
-图解设计模式实现
-# 1. Iterator 模式
-![未命名文件](https://github.com/codeeeep/Design-Patterns/assets/95727071/b172ac86-b322-4ceb-ac1a-8f04e6ef9d84)
+<div align="center">
+  <img src="images/logo.svg" width="100%"/>
+</div>
+<h1 align="center">Design Pattern Code Implementation via Java</h1>
 
-# 2. Adapter 模式
-![341ead50679b0f2e010a211d47009ea](https://github.com/codeeeep/Design-Patterns/assets/95727071/9459b5a9-ea51-4137-aaef-a1a02eda8378)
+Design Pattern is classics raised by **GoF**, and thanks for **Hiroshi Yuki**, I can learn the intellectual wealth via Java.
+It aims to provide ideas of System Structured systems analysis and design method, especially the one who wants to engage in software development.
 
+The key features of Design Pattern are:
+
+- Support every programming language, not only for Java.
+- Provide a standard method to design more flexible software.
+
+## Behavior: 行为型
+
+### Strategy 模式
+
+> 整体的替换算法
+
+#### Keywords 关键词
+
+- 委托
+
+#### 架构图
+
+<div align="center">
+  <img src="images/strategy.svg" width="80%"/>
+</div>
+
+
+## Create: 创建型
+
+## Structure: 结构型

@@ -11,23 +11,23 @@ The key features of Design Pattern are:
 - Support every programming language, not only for Java.
 - Provide a standard method to design more flexible software.
 
-## Behavior: 行为型
+## Behavior
 
-### Strategy 模式
+### Strategy
 
 > 整体的替换算法
 
-#### Keywords 关键词
+#### Keywords
 
 - 委托
 
-#### 架构图
+#### Architecture Diagram
 
 <div align="center">
   <img src="images/strategy.svg" width="80%"/>
 </div>
 
 
-## Create: 创建型
+## Create
 
-## Structure: 结构型
+## Structure

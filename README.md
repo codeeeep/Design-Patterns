@@ -11,6 +11,8 @@ The key features of Design Pattern are:
 - Support every programming language, not only for Java.
 - Provide a standard method to design more flexible software.
 
+
+
 ## Behavior
 
 ### Strategy
@@ -28,6 +30,6 @@ The key features of Design Pattern are:
 </div>
 
 
-## Create
+## Creation
 
 ## Structure

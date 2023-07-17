@@ -14,6 +14,9 @@ The key features of Design Pattern are:
 
 There are three different classifications of design patterns here
 
+> 😶‍🌫️ Note : I will upload the complete document when I finish the whole project.
+> Otherwise, it seems so inefficient that I can't focus on the primary meaning why I do this.
+
 ## contents
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
@@ -22,9 +25,9 @@ There are three different classifications of design patterns here
 
 - [🏃Behavior](#behavior)
   - [Strategy](#strategy)
-- [👷 Creation](#-creation)
+- [👷Creation](#-creation)
   - [Singleton](#singleton)
-- [🏠 Structure](#-structure)
+- [🏠Structure](#-structure)
   - [Composite](#composite)
 
 <!-- /code_chunk_output -->

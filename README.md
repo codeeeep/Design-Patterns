@@ -12,8 +12,26 @@ The key features of Design Pattern are:
 - Provide a standard method to design more flexible software.
 
 
+There are three different classifications of design patterns here
 
-## Behavior
+## contents
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [🏃Behavior](#behavior)
+  - [Strategy](#strategy)
+- [👷 Creation](#-creation)
+  - [Singleton](#singleton)
+- [🏠 Structure](#-structure)
+  - [Composite](#composite)
+
+<!-- /code_chunk_output -->
+
+---
+
+## 🏃Behavior
 
 ### Strategy
 
@@ -30,6 +48,36 @@ The key features of Design Pattern are:
 </div>
 
 
-## Creation
+## 👷 Creation
 
-## Structure
+### Singleton
+
+> 只有一个实例
+
+#### Keywords
+
+- 私有
+- 静态
+- 加锁
+
+#### Architecture Diagram
+
+<div align="center">
+  <img src="images/singleton.svg" width="80%""/>
+</div>
+
+## 🏠 Structure
+
+### Composite
+
+> 容器和内容的一致性
+
+#### Keywords
+
+- 递归
+
+#### Architecture Diagram
+
+<div align="center">
+  <img src="images/composite.svg" width="80%"/>
+</div>

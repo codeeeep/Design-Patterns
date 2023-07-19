@@ -134,3 +134,23 @@ Y
 )src/com/codeep/structure/bridge/Main.java,8\c\8c84a342ee227797cf6c5c2a24f2d11604570ef8
 C
 images/strategy.svg,3\5\3538735aa9b1ccdc413812394dc476e3bf1eba7f
+e
+5src/com/codeep/behavior/strategy/WinningStrategy.java,b\e\be5509f0aa01286b431f3376c2bc6ec090ff9fde
+Z
+*src/com/codeep/behavior/strategy/Main.java,0\9\099485d27633bf1a75fd2489e1771a24286f71b9
+\
+,src/com/codeep/behavior/strategy/Player.java,c\5\c59fc4b5b4432c76c55e52fa6224f45d999691be
+^
+.src/com/codeep/behavior/strategy/Strategy.java,5\b\5b38422a4c817d63696ab7840086b1ed4724e8ab
+Z
+*src/com/codeep/behavior/strategy/Hand.java,1\2\124c137e88e87303fc69549faf86e9d10cfe7d1b
+\
+,src/com/codeep/structure/composite/Main.java,c\2\c231ad9b2c2e15af7b7fbe78aec7e35b2f78c7b8
+n
+>src/com/codeep/structure/composite/FileTreatmentException.java,b\d\bd54f66927c5146bfdcf8cf48c107440cf12ab11
+a
+1src/com/codeep/structure/composite/Directory.java,a\9\a9f3ec54e9c5a45ecd3fa9b56357602ffa249abe
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+b
+2src/com/codeep/behavior/strategy/ProbStrategy.java,9\a\9a8d1c1adeda642d018a5437c93dd6978bd958fc
